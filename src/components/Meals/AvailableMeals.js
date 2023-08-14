@@ -7,25 +7,25 @@ import MealItem from "./MealItem/MealItem";
 const DUMMY_MEALS = [
   {
     id: "m1",
-    name: "Sushi",
+    name: "Suşi",
     description: "En iyi balık ve sebzeler",
     price: 22.99,
   },
   {
     id: "m2",
-    name: "Schnitzel",
+    name: "Şnitzel",
     description: "Bir Alman spesiyalitesi!",
     price: 16.5,
   },
   {
     id: "m3",
-    name: "Barbecue Burger",
+    name: "Barbekü Burger",
     description: "Amerikan, çiğ, etli",
     price: 12.99,
   },
   {
     id: "m4",
-    name: "Green Bowl",
+    name: "Yeşil Kase",
     description: "Sağlıklı... ve yeşil...",
     price: 18.99,
   },
